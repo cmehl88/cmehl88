@@ -1,17 +1,14 @@
-## Hey there!👋 I'm Carson and this is my GitHub profile!
-# Testing 
-Testing
-<!--
-**cmehl88/cmehl88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there!👋 I'm Carson and welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🎓 Currently pursuing a Computer Science degree at California State University, Monterey Bay (CSUMB) with a concentration in Network and Security.
+I'm passionate hardware related topics and anything relating to servers or cybersecurity related tools!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My Goals:
+- 📜 Completing certifications in **CompTIA Security+** and other related IT and cybersecurity certifications to expand my technical skills.
+- 🎓 Pursuing a **Master's degree** in a field that aligns with my interests, keeping options open to explore possbile different career paths.
+- 🚀 Continuously learning and growing within the tech industry, aiming to work in impactful and innovative projects.
+
+### 🏆 Interests:
+- Passionate about playing and watching a variety of sports.
+- When I'm not coding, you can find me working on my car, playing video games, or weightlifting!
+- Lastly a Fun Fact, I love driving manual cars!

@@ -4,8 +4,8 @@
 I'm passionate hardware related topics and anything relating to servers or cybersecurity related tools!
 
 ### 🎯 My Goals:
-- 📜 Completing certifications in **CompTIA Security+** and other related IT and cybersecurity certifications to expand my technical skills.
-- 🎓 Pursuing a **Master's degree** in a field that aligns with my interests, keeping options open to explore possbile different career paths.
+- 📜 Completing certifications in **CompTIA Security+** and other related cybersecurity certifications to expand my technical skills.
+- 🎓 Pursuing a **Master's degree** in a field that aligns with my interests, keeping options open to explore possbile choices
 - 🚀 Continuously learning and growing within the tech industry, aiming to work in impactful and innovative projects.
 
 ### 🏆 Interests:

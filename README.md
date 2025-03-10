@@ -10,5 +10,5 @@ I'm passionate hardware related topics and anything relating to servers or cyber
 
 ### 🏆 Interests:
 - Passionate about playing and watching a variety of sports.
-- When I'm not coding, you can find me working on my car, playing video games, or weightlifting!
+- When I'm not coding, you can find me working on my car, playing some games, or weightlifting!
 - Lastly a Fun Fact, I love driving manual cars!
